@@ -18,3 +18,7 @@ _kbhit() checks if keyboard is pressed. _getch() gets char and checks for a(LEFT
 
 ### Logic function
 Updates the x and y cordinates of snakes tail and head. Changes direction depending on key pressed and updates score if fruit 'has been eaten'.
+
+
+https://user-images.githubusercontent.com/94821815/177260149-a361217c-e72f-4885-b9c8-2e5a14ac243d.mp4
+
